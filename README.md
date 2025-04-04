@@ -1,4 +1,5 @@
-# MacOS apps I find awesome and would instal on any Mac I have. Ordered by must-have-ness (kinda).
+# MacOS apps I find awesome 
+#### and would instal on any Mac I have. Ordered by must-have-ness (kind of).
 
 1. [Rectangle](https://github.com/rxhanson/Rectangle) - window management without pain
 2. [LinearMouse](https://github.com/linearmouse/linearmouse) - set scrolling direction, disable pointer acceleration - all of it per-device
@@ -18,3 +19,8 @@
 16. [Pinta](https://www.pinta-project.com) - closest alternative for Paint.NET for MacOS I found
 17. [Blackmagic Disc Speed Test](https://apps.apple.com/kz/app/blackmagic-disk-speed-test/id425264550?mt=12) - well, it let you check your disc read/write speed
 18. AdBlock Plus - you know what it is
+
+
+Other MacOS awesome app lists:
+- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos)
+- [milanaryal/awesome-macos](https://github.com/milanaryal/awesome-macos) (more lists at the bottom of the page)
