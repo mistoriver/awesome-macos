@@ -16,7 +16,7 @@
 13. [EthernetStatus](https://ethernetstatus.com) - well, it shows your ethernet connection status, if you don't like to use wi-fi
 14. [Transmission](https://github.com/transmission/transmission) - torrent client of choice
 15. [Whisky](https://getwhisky.app) - Wine + Apple Game Porting Toolkit, a.k.a. "Windows games on MacOS". Tried with Steam + GTA5 - it's good.
-16. [Pinta](https://www.pinta-project.com) - closest alternative for Paint.NET for MacOS I found
+16. [Pinta](https://www.pinta-project.com) - closest alternative for Paint.NET for MacOS I found (new version is buggy, use previous one)
 17. [Blackmagic Disc Speed Test](https://apps.apple.com/kz/app/blackmagic-disk-speed-test/id425264550?mt=12) - well, it let you check your disc read/write speed
 18. AdBlock Plus - you know what it is
 
