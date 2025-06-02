@@ -4,7 +4,7 @@
 1. [Rectangle](https://github.com/rxhanson/Rectangle) - window management without pain
 2. [LinearMouse](https://github.com/linearmouse/linearmouse) - set scrolling direction, disable pointer acceleration - all of it per-device
 3. [AppCleaner](https://freemacsoft.net/appcleaner/) - delete apps from your mac completely
-4. [HiddenBar](https://github.com/dwarvesf/hidden) - declutter your menubar
+4. [HiddenBar](https://github.com/dwarvesf/hidden) - declutter your menubar (alternative if you have troubles with macbook notch - [ICE](https://github.com/jordanbaird/Ice) since Bartender has bad reviews lately
 5. [CheatSheet](https://cheatsheet-mac.en.softonic.com/mac) - hold control button for 2 sec and get list of hotkeys for focused app
 6. [Maccy](https://github.com/p0deje/Maccy/blob/master/README.md) - clipboard manager
 7. [Fork](https://git-fork.com) - git client
